@@ -43,7 +43,7 @@ La Confederación Cardano está comprometida a mantener los más altos estándar
 
 ## Violaciones Éticas Mayores
 
-### Algo por Algo
+### Quid Pro Quo
 
 - Prohibir cualquier práctica donde se intercambien favores, bienes o servicios por otros beneficios que no estén éticamente justificados.
 - Asegurar que todas las transacciones y decisiones se realicen de manera justa y transparente, sin intercambios indebidos.
@@ -111,7 +111,7 @@ La Confederación Cardano está comprometida a mantener los más altos estándar
 - Documente y haga públicas todas las transacciones y operaciones relevantes en la blockchain.
 - Asegure que las decisiones importantes sean consultadas y aprobadas por la comunidad.
 
-### Uso Ético de los Fondos Comunitarios
+## Uso Ético de los Fondos Comunitarios
 Reconozca que Project Catalyst es el motor de innovación descentralizada más grande del mundo, diseñado para resolver desafíos del mundo real e impulsar la expansión del ecosistema Cardano. Como el fondo del tesoro de la blockchain Cardano, debe usarse para apoyar y promover la gobernanza, evolución, éxito y difusión de Cardano. El enfoque hacia Project Catalyst debe ser: "¿Qué puedo aportar a Cardano?" Los solicitantes deben formular sus propuestas con la intención de contribuir significativamente al ecosistema de Cardano, solicitando solo los fondos necesarios para impulsar proyectos que ofrezcan un valor tangible y duradero a la comunidad. Es esencial desalentar la percepción de que Catalyst es una fuente de dinero fácil. Todos los proyectos deben alinearse con los objetivos de Cardano y estar diseñados para fortalecer y desarrollar el ecosistema. Project Catalyst no es un fondo de inversión privado para financiar proyectos que no tengan una relación directa y significativa con el crecimiento y éxito de Cardano.
 
 ## Implementación y Cumplimiento
