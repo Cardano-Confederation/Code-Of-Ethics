@@ -1,5 +1,7 @@
 # Cardano Confederation: Código de Ética
 
+Guia de princípios e melhores práticas para nossos membros seguirem com honestidade, integridade e profissionalismo.
+
 ## Introdução
 A Cardano Confederation está comprometida em manter os mais altos padrões de ética e conduta em todas as suas operações e atividades. Este código de ética fornece diretrizes para garantir integridade, transparência e responsabilidade dentro da comunidade da Confederação e em cada um de seus círculos (América Latina, MENA, África). Este Código de Ética é aplicável a pessoas físicas, como embaixadores ou DRep, ou a qualquer cargo que ocupem em nossa organização ou no ecossistema da CARDANO, bem como a organizações, projetos, empresas, fundações ou qualquer outro tipo de organização que participe de nossa Confederação. 
 
